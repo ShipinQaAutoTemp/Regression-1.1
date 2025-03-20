@@ -12,7 +12,7 @@ import { ActivityDrawer } from '../pages/drawer';
 // import { MapPage } from '../pages/map';
 // import { SensorsPage } from '../pages/sensors';
 // import { DetectorsPage } from '../pages/detectors';
-
+//test
 
 // Temporarily here - move to external data.json file in the future
 const config = {
