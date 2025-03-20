@@ -13,7 +13,6 @@ import { ActivityDrawer } from '../pages/drawer';
 // import { SensorsPage } from '../pages/sensors';
 // import { DetectorsPage } from '../pages/detectors';
 
-///TEST
 
 // Temporarily here - move to external data.json file in the future
 const config = {
